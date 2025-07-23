@@ -59,15 +59,12 @@ Edit
 
 ## 💻 How to Run the App
 
-### 🔧 Step 1: Install Requirements
-
-```bash
+🔧 Step 1: Install Requirements
 pip install -r requirements.txt
+
 ▶️ Step 2: Start Streamlit App
-bash
-Copy
-Edit
 streamlit run app.py
+
 📂 Step 3: Upload DNA CSV File
 The CSV should have 180 columns of binary (0/1) one-hot encoded data and a class column.
 

@@ -31,12 +31,6 @@ This project builds a **Transformer-based deep learning model** to classify DNA 
 ├── dna_predictions.csv # Exported predictions
 └── requirements.txt # Python dependencies
 
-yaml
-Copy
-Edit
-
----
-
 ## 🧪 Model Details
 
 - **Model Type:** Transformer with Positional Encoding

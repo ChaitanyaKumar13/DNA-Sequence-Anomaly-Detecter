@@ -117,3 +117,5 @@ This project is for educational purposes and research prototyping only.
 
 🙋‍♂️ Author
 Chaitanya Kumar
+LinkedIn: https://www.linkedin.com/in/chaitanya-kumar-78a4b524b/ 
+GitHub: https://github.com/ChaitanyaKumar13
